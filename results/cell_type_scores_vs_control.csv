@@ -1,0 +1,37 @@
+"region","cell_type","comparison","difference_SD","pvalue"
+"DLPFC","Inhibitory neurons","SCZ vs Control",-0.567,0.0056
+"DLPFC","Inhibitory neurons","MDD vs Control",-0.181,0.37
+"DLPFC","Inhibitory neurons","BPD vs Control",-0.563,0.0054
+"DLPFC","Excitatory neurons","SCZ vs Control",-0.423,0.047
+"DLPFC","Excitatory neurons","MDD vs Control",-0.109,0.61
+"DLPFC","Excitatory neurons","BPD vs Control",-0.198,0.34
+"DLPFC","Astrocytes","SCZ vs Control",0.254,0.25
+"DLPFC","Astrocytes","MDD vs Control",-0.043,0.85
+"DLPFC","Astrocytes","BPD vs Control",0.172,0.43
+"DLPFC","Oligodendrocytes","SCZ vs Control",-0.068,0.79
+"DLPFC","Oligodendrocytes","MDD vs Control",-0.215,0.41
+"DLPFC","Oligodendrocytes","BPD vs Control",-0.06,0.81
+"DLPFC","Microglia","SCZ vs Control",-0.356,0.14
+"DLPFC","Microglia","MDD vs Control",-0.105,0.67
+"DLPFC","Microglia","BPD vs Control",-0.255,0.29
+"DLPFC","Endothelial cells","SCZ vs Control",0.062,0.81
+"DLPFC","Endothelial cells","MDD vs Control",0.057,0.83
+"DLPFC","Endothelial cells","BPD vs Control",-0.014,0.96
+"AnCg","Inhibitory neurons","SCZ vs Control",-0.633,0.0015
+"AnCg","Inhibitory neurons","MDD vs Control",-0.113,0.57
+"AnCg","Inhibitory neurons","BPD vs Control",-0.609,0.0021
+"AnCg","Excitatory neurons","SCZ vs Control",-0.498,0.025
+"AnCg","Excitatory neurons","MDD vs Control",0.032,0.89
+"AnCg","Excitatory neurons","BPD vs Control",-0.417,0.058
+"AnCg","Astrocytes","SCZ vs Control",0.422,0.065
+"AnCg","Astrocytes","MDD vs Control",0.137,0.55
+"AnCg","Astrocytes","BPD vs Control",0.222,0.32
+"AnCg","Oligodendrocytes","SCZ vs Control",0.111,0.68
+"AnCg","Oligodendrocytes","MDD vs Control",-0.229,0.41
+"AnCg","Oligodendrocytes","BPD vs Control",0.295,0.27
+"AnCg","Microglia","SCZ vs Control",-0.313,0.21
+"AnCg","Microglia","MDD vs Control",-0.208,0.41
+"AnCg","Microglia","BPD vs Control",-0.32,0.2
+"AnCg","Endothelial cells","SCZ vs Control",0.319,0.21
+"AnCg","Endothelial cells","MDD vs Control",0.294,0.26
+"AnCg","Endothelial cells","BPD vs Control",0.295,0.25

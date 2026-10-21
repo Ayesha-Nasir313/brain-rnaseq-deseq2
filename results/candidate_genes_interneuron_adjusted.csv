@@ -1,0 +1,19 @@
+"region","comparison","gene","log2FC_before","p_before","log2FC_after","p_after"
+"DLPFC","SCZ vs Control","ERBB4",-0.156,0.083,0.003,0.96
+"DLPFC","SCZ vs Control","GAD1",-0.135,0.21,0.113,0.016
+"DLPFC","SCZ vs Control","LHPP",0.089,0.21,0.071,0.34
+"DLPFC","MDD vs Control","ERBB4",0.072,0.39,0.112,0.059
+"DLPFC","MDD vs Control","GAD1",0.035,0.73,0.07,0.099
+"DLPFC","MDD vs Control","LHPP",0.014,0.84,0.012,0.86
+"DLPFC","BPD vs Control","ERBB4",-0.128,0.14,0.029,0.65
+"DLPFC","BPD vs Control","GAD1",-0.189,0.068,0.037,0.41
+"DLPFC","BPD vs Control","LHPP",0.147,0.032,0.131,0.067
+"AnCg","SCZ vs Control","ERBB4",-0.225,0.0033,-0.04,0.45
+"AnCg","SCZ vs Control","GAD1",-0.244,0.011,0.041,0.4
+"AnCg","SCZ vs Control","LHPP",0.125,0.063,0.171,0.015
+"AnCg","MDD vs Control","ERBB4",-0.102,0.17,-0.029,0.55
+"AnCg","MDD vs Control","GAD1",-0.103,0.27,0.004,0.93
+"AnCg","MDD vs Control","LHPP",0.056,0.39,0.072,0.27
+"AnCg","BPD vs Control","ERBB4",-0.18,0.016,-0.029,0.56
+"AnCg","BPD vs Control","GAD1",-0.252,0.0073,-0.029,0.53
+"AnCg","BPD vs Control","LHPP",0.154,0.02,0.191,0.0049
