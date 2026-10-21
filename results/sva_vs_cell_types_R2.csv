@@ -1,0 +1,13 @@
+"region","cell_type","R2","adj_R2"
+"DLPFC","Inhibitory neurons",0.8,0.77
+"DLPFC","Excitatory neurons",0.93,0.92
+"DLPFC","Astrocytes",0.95,0.95
+"DLPFC","Oligodendrocytes",0.85,0.83
+"DLPFC","Microglia",0.78,0.74
+"DLPFC","Endothelial cells",0.72,0.68
+"AnCg","Inhibitory neurons",0.84,0.82
+"AnCg","Excitatory neurons",0.94,0.93
+"AnCg","Astrocytes",0.93,0.91
+"AnCg","Oligodendrocytes",0.95,0.94
+"AnCg","Microglia",0.93,0.92
+"AnCg","Endothelial cells",0.78,0.75

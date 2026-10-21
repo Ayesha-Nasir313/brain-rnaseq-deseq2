@@ -1,0 +1,81 @@
+"region","comparison","pathway","NGenes","Correlation","Direction","PValue","camera_FDR","NES","GSEA_padj"
+"AnCg","BPD vs Control","fatty acid oxidation",91,0.045,"Up",0.22,0.96,1.55,0.12
+"AnCg","BPD vs Control","GABA-ergic synapse",115,0.063,"Down",0.28,0.96,-1.62,0.04
+"AnCg","BPD vs Control","nuclear division",379,0.021,"Down",0.35,0.96,-1.27,0.24
+"AnCg","BPD vs Control","small molecule catabolic process",332,0.038,"Up",0.44,0.96,1.35,0.16
+"AnCg","BPD vs Control","cytosolic ribosome",112,0.234,"Up",0.48,0.96,1.7,0.026
+"AnCg","BPD vs Control","lysosomal lumen acidification",23,0.171,"Up",0.68,0.96,1.1,0.75
+"AnCg","BPD vs Control","oxidative phosphorylation",129,0.128,"Down",0.76,0.96,-0.92,0.91
+"AnCg","BPD vs Control","vacuolar acidification",35,0.112,"Up",0.77,0.96,1,0.82
+"AnCg","BPD vs Control","lysosomal membrane",449,0.025,"Up",0.91,0.98,1.01,0.65
+"AnCg","BPD vs Control","extracellular matrix organization",243,0.018,"Up",0.98,0.98,-1.07,0.73
+"AnCg","MDD vs Control","vacuolar acidification",35,0.112,"Up",0.0096,0.058,2.34,0.00022
+"AnCg","MDD vs Control","lysosomal lumen acidification",23,0.171,"Up",0.012,0.058,2.23,0.0014
+"AnCg","MDD vs Control","lysosomal membrane",449,0.025,"Up",0.039,0.1,1.94,4.6e-09
+"AnCg","MDD vs Control","extracellular matrix organization",243,0.018,"Down",0.041,0.1,-1.83,0.00027
+"AnCg","MDD vs Control","fatty acid oxidation",91,0.045,"Up",0.076,0.15,1.91,0.0019
+"AnCg","MDD vs Control","small molecule catabolic process",332,0.038,"Up",0.095,0.16,1.87,1.3e-05
+"AnCg","MDD vs Control","cytosolic ribosome",112,0.234,"Up",0.25,0.35,2.14,3.6e-06
+"AnCg","MDD vs Control","oxidative phosphorylation",129,0.128,"Up",0.35,0.44,1.58,0.042
+"AnCg","MDD vs Control","nuclear division",379,0.021,"Down",0.55,0.61,-1.24,0.2
+"AnCg","MDD vs Control","GABA-ergic synapse",115,0.063,"Up",0.83,0.83,0.97,0.71
+"AnCg","SCZ vs Control","fatty acid oxidation",91,0.045,"Up",0.002,0.02,2.37,1.1e-07
+"AnCg","SCZ vs Control","small molecule catabolic process",332,0.038,"Up",0.01,0.031,2.19,1.6e-11
+"AnCg","SCZ vs Control","vacuolar acidification",35,0.112,"Up",0.012,0.031,1.98,0.0065
+"AnCg","SCZ vs Control","lysosomal lumen acidification",23,0.171,"Up",0.014,0.031,1.96,0.0083
+"AnCg","SCZ vs Control","lysosomal membrane",449,0.025,"Up",0.016,0.031,2.15,8.6e-15
+"AnCg","SCZ vs Control","extracellular matrix organization",243,0.018,"Down",0.03,0.05,-1.92,7.5e-06
+"AnCg","SCZ vs Control","cytosolic ribosome",112,0.234,"Up",0.27,0.38,2.25,8.4e-08
+"AnCg","SCZ vs Control","GABA-ergic synapse",115,0.063,"Down",0.44,0.55,-1.27,0.2
+"AnCg","SCZ vs Control","oxidative phosphorylation",129,0.128,"Up",0.56,0.62,1.65,0.015
+"AnCg","SCZ vs Control","nuclear division",379,0.021,"Up",0.7,0.7,1.06,0.54
+"AnCg","SCZ vs MDD","fatty acid oxidation",91,0.045,"Up",0.051,0.51,NA,NA
+"AnCg","SCZ vs MDD","small molecule catabolic process",332,0.038,"Up",0.16,0.74,NA,NA
+"AnCg","SCZ vs MDD","GABA-ergic synapse",115,0.063,"Down",0.3,0.74,NA,NA
+"AnCg","SCZ vs MDD","nuclear division",379,0.021,"Up",0.35,0.74,NA,NA
+"AnCg","SCZ vs MDD","lysosomal membrane",449,0.025,"Up",0.37,0.74,NA,NA
+"AnCg","SCZ vs MDD","extracellular matrix organization",243,0.018,"Down",0.54,0.75,NA,NA
+"AnCg","SCZ vs MDD","vacuolar acidification",35,0.112,"Up",0.58,0.75,NA,NA
+"AnCg","SCZ vs MDD","lysosomal lumen acidification",23,0.171,"Up",0.6,0.75,NA,NA
+"AnCg","SCZ vs MDD","cytosolic ribosome",112,0.234,"Up",0.83,0.87,NA,NA
+"AnCg","SCZ vs MDD","oxidative phosphorylation",129,0.128,"Down",0.87,0.87,NA,NA
+"DLPFC","BPD vs Control","cytosolic ribosome",112,0.28,"Up",0.046,0.46,3.17,3.5e-22
+"DLPFC","BPD vs Control","nuclear division",378,0.029,"Down",0.17,0.81,-1.69,0.00023
+"DLPFC","BPD vs Control","oxidative phosphorylation",128,0.106,"Up",0.24,0.81,2.05,7.9e-05
+"DLPFC","BPD vs Control","fatty acid oxidation",91,0.026,"Up",0.47,0.95,1.2,0.58
+"DLPFC","BPD vs Control","GABA-ergic synapse",115,0.052,"Down",0.62,0.95,-0.96,0.83
+"DLPFC","BPD vs Control","small molecule catabolic process",331,0.027,"Up",0.65,0.95,1.33,0.13
+"DLPFC","BPD vs Control","extracellular matrix organization",243,0.027,"Down",0.67,0.95,-1.06,0.76
+"DLPFC","BPD vs Control","lysosomal lumen acidification",23,0.129,"Up",0.79,0.95,1.09,0.77
+"DLPFC","BPD vs Control","vacuolar acidification",35,0.099,"Up",0.85,0.95,1.06,0.78
+"DLPFC","BPD vs Control","lysosomal membrane",448,0.026,"Up",1,1,1.11,0.53
+"DLPFC","MDD vs Control","nuclear division",378,0.029,"Down",0.044,0.44,-2.05,9.4e-10
+"DLPFC","MDD vs Control","fatty acid oxidation",91,0.026,"Up",0.28,0.75,1.55,0.13
+"DLPFC","MDD vs Control","lysosomal lumen acidification",23,0.129,"Up",0.39,0.75,1.43,0.42
+"DLPFC","MDD vs Control","vacuolar acidification",35,0.099,"Up",0.53,0.75,1.31,0.56
+"DLPFC","MDD vs Control","extracellular matrix organization",243,0.027,"Down",0.56,0.75,-1.24,0.46
+"DLPFC","MDD vs Control","lysosomal membrane",448,0.026,"Up",0.56,0.75,1.1,0.4
+"DLPFC","MDD vs Control","GABA-ergic synapse",115,0.052,"Up",0.62,0.75,0.68,1
+"DLPFC","MDD vs Control","oxidative phosphorylation",128,0.106,"Up",0.72,0.75,1.06,0.83
+"DLPFC","MDD vs Control","small molecule catabolic process",331,0.027,"Up",0.72,0.75,1.03,0.82
+"DLPFC","MDD vs Control","cytosolic ribosome",112,0.28,"Up",0.75,0.75,1.1,0.61
+"DLPFC","SCZ vs Control","oxidative phosphorylation",128,0.106,"Up",0.079,0.4,2.72,3.7e-12
+"DLPFC","SCZ vs Control","lysosomal lumen acidification",23,0.129,"Up",0.16,0.4,1.82,0.14
+"DLPFC","SCZ vs Control","fatty acid oxidation",91,0.026,"Up",0.16,0.4,1.43,0.24
+"DLPFC","SCZ vs Control","vacuolar acidification",35,0.099,"Up",0.23,0.4,1.83,0.095
+"DLPFC","SCZ vs Control","GABA-ergic synapse",115,0.052,"Down",0.25,0.4,-1.61,0.049
+"DLPFC","SCZ vs Control","extracellular matrix organization",243,0.027,"Down",0.27,0.4,-1.37,0.19
+"DLPFC","SCZ vs Control","cytosolic ribosome",112,0.28,"Up",0.28,0.4,2.3,4.7e-07
+"DLPFC","SCZ vs Control","nuclear division",378,0.029,"Down",0.49,0.59,-1.27,0.31
+"DLPFC","SCZ vs Control","lysosomal membrane",448,0.026,"Up",0.54,0.59,1.19,0.21
+"DLPFC","SCZ vs Control","small molecule catabolic process",331,0.027,"Up",0.68,0.68,1.14,0.38
+"DLPFC","SCZ vs MDD","GABA-ergic synapse",115,0.052,"Down",0.11,0.68,NA,NA
+"DLPFC","SCZ vs MDD","oxidative phosphorylation",128,0.106,"Up",0.14,0.68,NA,NA
+"DLPFC","SCZ vs MDD","nuclear division",378,0.029,"Up",0.31,0.74,NA,NA
+"DLPFC","SCZ vs MDD","cytosolic ribosome",112,0.28,"Up",0.41,0.74,NA,NA
+"DLPFC","SCZ vs MDD","lysosomal lumen acidification",23,0.129,"Up",0.47,0.74,NA,NA
+"DLPFC","SCZ vs MDD","vacuolar acidification",35,0.099,"Up",0.49,0.74,NA,NA
+"DLPFC","SCZ vs MDD","extracellular matrix organization",243,0.027,"Down",0.53,0.74,NA,NA
+"DLPFC","SCZ vs MDD","fatty acid oxidation",91,0.026,"Up",0.59,0.74,NA,NA
+"DLPFC","SCZ vs MDD","lysosomal membrane",448,0.026,"Up",0.89,0.91,NA,NA
+"DLPFC","SCZ vs MDD","small molecule catabolic process",331,0.027,"Up",0.91,0.91,NA,NA
