@@ -154,7 +154,7 @@ GSEA (clusterProfiler) tests GO terms by shuffling genes, which ignores the fact
 
 1. Install R (≥ 4.4) and RStudio.
 2. Clone the repository (`git clone https://github.com/ayesha-nasir313/brain-rnaseq-deseq2.git`) or use **Code → Download ZIP**, then open `brain-rnaseq-deseq2.Rproj`.
-3. Run the scripts in order: `00` → `01` → `02` → `03` → `03b` → `04` → `05` → `06` → `07` → `08` → `09`. Raw data download automatically from GEO into `data/` (not included in the repository); result tables go into `results/` and figures into `figures/`. A full run takes about 1.5–2 hours.
+3. Open the scripts in scripts/ folder and run them in order: `00` → `01` → `02` → `03` → `03b` → `04` → `05` → `06` → `07` → `08` → `09`. Raw data download automatically from GEO into `data/` (not included in the repository); result tables go into `results/` and figures into `figures/`. A full run takes about 1.5–2 hours.
 4. Package versions are listed in `sessionInfo.txt`.
 
 ## License
