@@ -40,7 +40,7 @@ for (REGION in c("DLPFC", "AnCg")) {
       geom_point(aes(colour = group), size = 1.2, alpha = 0.7) +
       scale_colour_manual(values = c("Higher in patients" = col_up,
                                      "Lower in patients"  = col_down,
-                                     "Not significant"    = col_ns), drop = TRUES) +
+                                     "Not significant"    = col_ns), breaks = levels(droplevels(df$group))) +
       geom_point(data = df[df$Symbol %in% panel, ], shape = 21, size = 3,
                  colour = "black", fill = NA, stroke = 0.8) +
       geom_text_repel(data = labs_df, aes(label = Symbol), size = 3,
