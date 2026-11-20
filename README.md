@@ -174,7 +174,6 @@ Code: MIT (see `LICENSE`). Data: public GEO dataset GSE80655 (Ramaker et al., 20
 - Law AJ, et al. Disease-associated intronic variants in the ErbB4 gene are related to altered ErbB4 splice-variant expression in the brain in schizophrenia. *Human Molecular Genetics* (2007). doi:10.1093/hmg/ddl449
 - Chung DW, et al. Dysregulated ErbB4 splicing in schizophrenia: selective effects on parvalbumin expression. *American Journal of Psychiatry* (2016). doi:10.1176/appi.ajp.2015.15020150
 - Khan AA, et al. Exploration of schizophrenia-related behavioral and molecular abnormalities in a mutant mouse model with a mutation in the TVV motif of the ErbB4 gene. *Molecular Brain* (2025). doi:10.1186/s13041-025-01238-2
-- Wang Z, et al. Integrated multi-omics analysis reveals immune and metabolic dysregulation in a restraint stress-induced depression model. *Biomedicines* (2025). doi:10.3390/biomedicines13092183
 - Lin D, et al. LHPP, a risk factor for major depressive disorder, regulates stress-induced depression-like behaviors through its histidine phosphatase activity. *Molecular Psychiatry* (2023). doi:10.1038/s41380-022-01893-0
 - Sha L, et al. LHPP-mediated inorganic pyrophosphate hydrolysis-driven lysosomal acidification in astrocytes regulates adult neurogenesis. *Cell Reports* (2023). PMID: 37573508
 
